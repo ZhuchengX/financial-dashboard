@@ -1,0 +1,3461 @@
+{
+  "presetData": {
+    "数学与应用数学D": {
+      "2025级": {
+        "第一学年第一学期": [
+          {
+            "name": "AI 通识课",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "邓迪体系介绍",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "思想道德修养与法律基础",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "军事理论",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "新生课",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 300.0
+          },
+          {
+            "name": "英语（一）",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "英语（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）机械工程",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "项目（一）机械工程",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）土木工程",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "项目（一）土木工程",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）计算科学",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "项目（一）计算科学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）数学",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "项目（一）数学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "科学与工程微积分",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "科学与工程微积分",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          }
+        ],
+        "第一学年第二学期": [
+          {
+            "name": "大学生心理健康教育（二）",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "英语（二）",
+            "type": "大班课",
+            "hours": 4,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "英语（二）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "统计学专业英语",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "统计学专业英语",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "纯数学中的若干问题",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "微积分（二）",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 1100.0
+          }
+        ]
+      },
+      "2024级": {
+        "第二学年第一学期": [
+          {
+            "name": "中国近现代史纲要",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 600.0
+          },
+          {
+            "name": "中国近现代史纲要",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "计算机程序设计基础（C++）",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 800.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "计算机程序设计基础（C++）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "数学 2A",
+            "type": "大班课",
+            "hours": 4,
+            "rate": 1400.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "数学 2A",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "离散数学",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "离散数学",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "编程概论",
+            "type": "大班课",
+            "hours": 5,
+            "rate": 1400.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "编程概论",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 500.0
+          }
+        ],
+        "第二学年第二学期": [
+          {
+            "name": "马克思主义基本原理",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "马克思主义基本原理",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "数学 2B",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "蒋克宇(待定)",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "数学 2B",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "蒋克宇(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "计算机代数与动力系统",
+            "type": "大班课",
+            "hours": 6,
+            "rate": 1400.0,
+            "defaultTeacher": "蒋克宇(待定)",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "计算机代数与动力系统",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "蒋克宇(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "统计学（二）",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "蒋克宇(待定)",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "统计学（二）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "蒋克宇(待定)",
+            "defaultCost": 500.0
+          }
+        ]
+      },
+      "2023级": {
+        "第三学年第一学期": [
+          {
+            "name": "毛泽东思想和中国特色社会主义理论体系概论",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "思政课(待定)",
+            "defaultCost": 600.0
+          },
+          {
+            "name": "毛泽东思想和中国特色社会主义理论体系概论",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "思政课(待定)",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "创新创业导论",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "思政课(待定)",
+            "defaultCost": 900.0
+          },
+          {
+            "name": "创新创业导论",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "思政课(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "微分方程",
+            "type": "大班课",
+            "hours": 8,
+            "rate": 1400.0,
+            "defaultTeacher": "白杨",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "微分方程",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "白杨",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "矢量微积分",
+            "type": "大班课",
+            "hours": 7,
+            "rate": 1400.0,
+            "defaultTeacher": "何泳杭",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "矢量微积分",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "何泳杭",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "分析学",
+            "type": "大班课",
+            "hours": 4,
+            "rate": 1400.0,
+            "defaultTeacher": "张欣宇",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "分析学",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "张欣宇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "运筹学",
+            "type": "大班课",
+            "hours": 4,
+            "rate": 1400.0,
+            "defaultTeacher": "何泳杭",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "运筹学",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "何泳杭",
+            "defaultCost": 500.0
+          }
+        ],
+        "第三学年第二学期": [
+          {
+            "name": "习近平新时代中国特色社会主义思想概论",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "思政课(待定)",
+            "defaultCost": 900.0
+          },
+          {
+            "name": "习近平新时代中国特色社会主义思想概论",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "思政课(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "计算科学基础",
+            "type": "大班课",
+            "hours": 8,
+            "rate": 1400.0,
+            "defaultTeacher": "专业课(待定)",
+            "defaultCost": 900.0
+          },
+          {
+            "name": "计算科学基础",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "专业课(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "复分析",
+            "type": "大班课",
+            "hours": 8,
+            "rate": 1400.0,
+            "defaultTeacher": "专业课(待定)",
+            "defaultCost": 900.0
+          },
+          {
+            "name": "复分析",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "专业课(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "微分几何",
+            "type": "大班课",
+            "hours": 10,
+            "rate": 1400.0,
+            "defaultTeacher": "专业课(待定)",
+            "defaultCost": 900.0
+          },
+          {
+            "name": "微分几何",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "专业课(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "数学生物学（一）",
+            "type": "大班课",
+            "hours": 6,
+            "rate": 1400.0,
+            "defaultTeacher": "专业课(待定)",
+            "defaultCost": 900.0
+          },
+          {
+            "name": "数学生物学（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "专业课(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "常微分方程及其近似解",
+            "type": "大班课",
+            "hours": 8,
+            "rate": 1400.0,
+            "defaultTeacher": "专业课(待定)",
+            "defaultCost": 900.0
+          },
+          {
+            "name": "常微分方程及其近似解",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "专业课(待定)",
+            "defaultCost": 500.0
+          }
+        ]
+      },
+      "2022级": {
+        "第四学年第一学期": [
+          {
+            "name": "偏微分方程及其近似解",
+            "type": "大班课",
+            "hours": 6,
+            "rate": 0.0,
+            "defaultTeacher": "陈佳浩",
+            "defaultCost": 300.0
+          },
+          {
+            "name": "图论",
+            "type": "大班课",
+            "hours": 8,
+            "rate": 0.0,
+            "defaultTeacher": "陈佳浩",
+            "defaultCost": 300.0
+          },
+          {
+            "name": "流体及等离子体数学（一）",
+            "type": "大班课",
+            "hours": 5,
+            "rate": 0.0,
+            "defaultTeacher": "何泳杭",
+            "defaultCost": 300.0
+          }
+        ]
+      }
+    },
+    "交通设备与控制工程D": {
+      "2025级": {
+        "第一学年第一学期": [
+          {
+            "name": "AI 通识课",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "邓迪体系介绍",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "思想道德修养与法律基础",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "军事理论",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "新生课",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 300.0
+          },
+          {
+            "name": "英语（一）",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "英语（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）机械工程",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "项目（一）机械工程",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）土木工程",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "项目（一）土木工程",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）计算科学",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "项目（一）计算科学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）数学",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "项目（一）数学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "科学与工程微积分",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "科学与工程微积分",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          }
+        ],
+        "第一学年第二学期": [
+          {
+            "name": "大学生心理健康教育（二）",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "国家安全教育",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "英语（二）",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "英语（二）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "工程项目（二）机械工程",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "工程项目（二）机械工程",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "工程制图基础",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "工程制图基础",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "热力学(一)",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "热力学(一)",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "力学",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "力学",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          }
+        ]
+      },
+      "2024级": {
+        "第二学年第一学期": [
+          {
+            "name": "中国近现代史纲要",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 600.0
+          },
+          {
+            "name": "中国近现代史纲要",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "计算机程序设计基础（C++）",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 800.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "计算机程序设计基础（C++）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "计算机辅助设计",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "计算机辅助设计",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "流体力学（一）",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "流体力学（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "工程师数学（一）",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "工程师数学（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "热力学（二）",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "热力学（二）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "微控制器应用",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "微控制器应用",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          }
+        ],
+        "第二学年第二学期": [
+          {
+            "name": "马克思主义基本原理",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "马克思主义基本原理",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "固体力学",
+            "type": "大班课",
+            "hours": 4,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "固体力学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "机械力学",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "机械力学",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "机械制造(一)",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "机械制造(一)",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "电子与仪器仪表",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "电子与仪器仪表",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          }
+        ]
+      }
+    },
+    "机械制造及其自动化D": {
+      "2025级": {
+        "第一学年第一学期": [
+          {
+            "name": "AI 通识课",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "邓迪体系介绍",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "思想道德修养与法律基础",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "军事理论",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "新生课",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 300.0
+          },
+          {
+            "name": "英语（一）",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "英语（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）机械工程",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "项目（一）机械工程",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）土木工程",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "项目（一）土木工程",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）计算科学",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "项目（一）计算科学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）数学",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "项目（一）数学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "科学与工程微积分",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "科学与工程微积分",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "AI 通识课",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "邓迪体系介绍",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "思想道德修养与法律基础",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "军事理论",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "新生课",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 300.0
+          },
+          {
+            "name": "英语（一）",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "英语（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）机械工程",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "项目（一）机械工程",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）土木工程",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "项目（一）土木工程",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）计算科学",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "项目（一）计算科学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "项目（一）数学",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "项目（一）数学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "科学与工程微积分",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 1400.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "科学与工程微积分",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "王梦洁",
+            "defaultCost": 500.0
+          }
+        ],
+        "第一学年第二学期": [
+          {
+            "name": "大学生心理健康教育（二）",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "国家安全教育",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "英语（二）",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "英语（二）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "工程项目（二）机械工程",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "工程项目（二）机械工程",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "工程制图基础",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "工程制图基础",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "热力学(一)",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "热力学(一)",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "力学",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "力学",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "大学生心理健康教育（二）",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "国家安全教育",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "英语（二）",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 1100.0
+          },
+          {
+            "name": "英语（二）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "童子璇(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "工程项目（二）机械工程",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "工程项目（二）机械工程",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "工程制图基础",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "工程制图基础",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "热力学(一)",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "热力学(一)",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "力学",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "力学",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          }
+        ]
+      },
+      "2024级": {
+        "第二学年第一学期": [
+          {
+            "name": "中国近现代史纲要",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 600.0
+          },
+          {
+            "name": "中国近现代史纲要",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "计算机程序设计基础（C++）",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 800.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 1000.0
+          },
+          {
+            "name": "计算机程序设计基础（C++）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "计算机辅助设计",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "计算机辅助设计",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "流体力学（一）",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "流体力学（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "工程师数学（一）",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "工程师数学（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "热力学（二）",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "热力学（二）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "微控制器应用",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "微控制器应用",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "中国近现代史纲要",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 600.0
+          },
+          {
+            "name": "中国近现代史纲要",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "计算机程序设计基础（C++）",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 800.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 900.0
+          },
+          {
+            "name": "计算机程序设计基础（C++）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "蒋克宇",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "计算机辅助设计",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "计算机辅助设计",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "流体力学（一）",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "流体力学（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "工程师数学（一）",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "工程师数学（一）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "热力学（二）",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "热力学（二）",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "微控制器应用",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "微控制器应用",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐",
+            "defaultCost": 500.0
+          }
+        ],
+        "第二学年第二学期": [
+          {
+            "name": "马克思主义基本原理",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "马克思主义基本原理",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "固体力学",
+            "type": "大班课",
+            "hours": 4,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "固体力学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "机械力学",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "机械力学",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "机械制造(一)",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "机械制造(一)",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "电子与仪器仪表",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "电子与仪器仪表",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "马克思主义基本原理",
+            "type": "大班课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "马克思主义基本原理",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 300.0,
+            "defaultTeacher": "卢佳铭(待定)",
+            "defaultCost": 0.0
+          },
+          {
+            "name": "固体力学",
+            "type": "大班课",
+            "hours": 4,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "固体力学",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "机械力学",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "机械力学",
+            "type": "答疑课",
+            "hours": 1,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "机械制造(一)",
+            "type": "大班课",
+            "hours": 2,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "机械制造(一)",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          },
+          {
+            "name": "电子与仪器仪表",
+            "type": "大班课",
+            "hours": 3,
+            "rate": 1400.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 1200.0
+          },
+          {
+            "name": "电子与仪器仪表",
+            "type": "答疑课",
+            "hours": 2,
+            "rate": 500.0,
+            "defaultTeacher": "傅嘉乐(待定)",
+            "defaultCost": 500.0
+          }
+        ]
+      }
+    }
+  },
+  "expenses": [
+    {
+      "id": "exp_d4e3fc313",
+      "date": "2025-08-23",
+      "payee": "nan",
+      "reason": "付：Xmind 2025 Pro下载 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -15.89,
+      "category": "运营支出",
+      "account": "支付宝",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_b618641ce",
+      "date": "2025-09-04",
+      "payee": "nan",
+      "reason": "付：腾讯会议vip直充一天 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -10.8,
+      "category": "运营支出",
+      "account": "支付宝",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_faa313231",
+      "date": "2025-09-05",
+      "payee": "nan",
+      "reason": "付：四个备案章刻制600元 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -600.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_00fdb077d",
+      "date": "2025-09-06",
+      "payee": "nan",
+      "reason": "付：名称变更费用 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -700.0,
+      "category": "运营支出",
+      "account": "中行企业网银",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_0330fb8e0",
+      "date": "2025-09-09",
+      "payee": "nan",
+      "reason": "付：坚果云专业版-12个月 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -199.9,
+      "category": "运营支出",
+      "account": "支付宝",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_062988911",
+      "date": "2025-09-16",
+      "payee": "nan",
+      "reason": "付：坚果云-月卡 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -30.0,
+      "category": "运营支出",
+      "account": "支付宝",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_353b0952e",
+      "date": "2025-09-18",
+      "payee": "nan",
+      "reason": "付：腾讯会议专业版-月卡 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -78.0,
+      "category": "运营支出",
+      "account": "支付宝",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_ae85b4135",
+      "date": "2025-09-19",
+      "payee": "nan",
+      "reason": "付：蒋克宇（应数SEM3全面讲解费用 1h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_64e63e08e",
+      "date": "2025-09-19",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（机械交设SEM3全面讲解费用 1h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1200.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_3bec3c2b8",
+      "date": "2025-09-23",
+      "payee": "nan",
+      "reason": "付：公司LOGO设计费用 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -188.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_9dc50ecfd",
+      "date": "2025-09-25",
+      "payee": "nan",
+      "reason": "付：傅哥-周晖杰专业课请教 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -188.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_f13eb7f95",
+      "date": "2025-09-30",
+      "payee": "nan",
+      "reason": "付：王总网站推广-09月工资 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1230.0,
+      "category": "运营支出",
+      "account": "兴业银行",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_8659a648e",
+      "date": "2025-10-09",
+      "payee": "nan",
+      "reason": "付：卢佳铭（法务-绩点类合同） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -400.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_84d2e531f",
+      "date": "2025-10-10",
+      "payee": "nan",
+      "reason": "付：更换公司名的牌匾钱 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -120.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_63b024bc2",
+      "date": "2025-10-14",
+      "payee": "nan",
+      "reason": "付：企业微信高级功能-开启 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -300.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_f07e63e73",
+      "date": "2025-10-15",
+      "payee": "nan",
+      "reason": "付：坚果云-月卡 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -30.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_45eb2bb6e",
+      "date": "2025-10-15",
+      "payee": "nan",
+      "reason": "付：腾讯会议专业版-月卡 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -71.88,
+      "category": "运营支出",
+      "account": "支付宝",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_13849dc53",
+      "date": "2025-10-16",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（机械交设SEM3工程师数学一 1.5h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1800.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_414815d68",
+      "date": "2025-10-18",
+      "payee": "nan",
+      "reason": "付：蒋克宇（应数SEM3 C++30min和编程概论40min） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1166.66,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_3f1899e6e",
+      "date": "2025-10-19",
+      "payee": "nan",
+      "reason": "付：张畅（updf年度会员） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -128.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_deca7ddac",
+      "date": "2025-10-21",
+      "payee": "nan",
+      "reason": "付：白杨（应数SEM5 微分方程1h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_bbef9cee0",
+      "date": "2025-10-22",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（答疑课-张远哲 0.5h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -258.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_1d67a7fa8",
+      "date": "2025-10-23",
+      "payee": "nan",
+      "reason": "付：何泳杭（应数SEM5 矢量微积分1h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_613a4d2d3",
+      "date": "2025-10-24",
+      "payee": "nan",
+      "reason": "付：张欣宇（应数SEM5 分析学2.25小时） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -2250.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_061e9df5a",
+      "date": "2025-10-28",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（机械交设SEM3流体力学 1h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1200.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_27d5a87b7",
+      "date": "2025-10-30",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（机械交设SEM3计算机辅助设计 1.5h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1800.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_db33029b9",
+      "date": "2025-10-31",
+      "payee": "nan",
+      "reason": "付：王梦洁（计算机项目课 0.5h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -650.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_47a62fa54",
+      "date": "2025-10-31",
+      "payee": "nan",
+      "reason": "付：张畅（教务老师半个月月底结算工资） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_cf7c9cf4b",
+      "date": "2025-10-31",
+      "payee": "nan",
+      "reason": "付：王总（网站推广-10月工资） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1260.0,
+      "category": "运营支出",
+      "account": "兴业银行",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_9a00754b8",
+      "date": "2025-11-01",
+      "payee": "nan",
+      "reason": "付：白杨（应数SEM5 微分方程2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -2000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_156359c4f",
+      "date": "2025-11-03",
+      "payee": "nan",
+      "reason": "付：何泳杭（应数SEM5 矢量微积分1h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_b240eed00",
+      "date": "2025-11-05",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（AI指导课程1h时薪底薪） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1200.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_25be75dc8",
+      "date": "2025-11-06",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（热力学1h时薪底薪） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1200.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_907df9cd8",
+      "date": "2025-11-08",
+      "payee": "nan",
+      "reason": "付：王梦洁（计算机答疑课0.5h*3） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -750.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_5a406f618",
+      "date": "2025-11-11",
+      "payee": "nan",
+      "reason": "付：王梦洁（机械项目课张瑾萱-答疑课1h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -500.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_6078cbecb",
+      "date": "2025-11-11",
+      "payee": "nan",
+      "reason": "付：童子璇（英语一听力 大班课 40min） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -910.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_33f639c26",
+      "date": "2025-11-13",
+      "payee": "nan",
+      "reason": "付：何泳杭（运筹学-大班课-0.5小时底薪薪酬） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -500.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_13e79f589",
+      "date": "2025-11-13",
+      "payee": "nan",
+      "reason": "付：蒋克宇（编程概论-大班课-2小时底薪薪酬） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -2000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_4ea8d25a2",
+      "date": "2025-11-14",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（微控-大班课-1.5小时底薪薪酬） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1800.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_0b1c931e2",
+      "date": "2025-11-15",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（工程师数学-答疑课-0.5小时底薪薪酬-张远哲） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -250.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_3a24049f2",
+      "date": "2025-11-15",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（工程师数学-答疑课-1.0小时底薪薪酬-张远哲.答疑时间为20251107） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -500.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_3864fb363",
+      "date": "2025-11-16",
+      "payee": "nan",
+      "reason": "付：王梦洁（计算机答疑课0.5h*3。答疑时间为20251114） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -750.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_50d119bad",
+      "date": "2025-11-17",
+      "payee": "nan",
+      "reason": "付：童子璇（英语一40min 项目一土木30min 大班课） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1516.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_60192fc02",
+      "date": "2025-11-18",
+      "payee": "nan",
+      "reason": "付：童子璇（项目一数学30min 大班课） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -650.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_be23fcf29",
+      "date": "2025-11-24",
+      "payee": "nan",
+      "reason": "付：张畅（WPS年度会员） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -98.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_8cf9b2983",
+      "date": "2025-11-26",
+      "payee": "nan",
+      "reason": "付：童子璇（项目一土木 罗虞涵 熊泰迪 各0.5h答疑课） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -500.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "412qoxt09",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_c37895ef9",
+      "date": "2025-11-26",
+      "payee": "nan",
+      "reason": "付：王梦洁（科学工程与微积分 大班课 0.5h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -650.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_148943ee3",
+      "date": "2025-11-27",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（机械交设SEM3流体力学 大班课 1h） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1200.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_784416270",
+      "date": "2025-11-29",
+      "payee": "nan",
+      "reason": "付：童子璇（项目一数学 张瑾萱 0.5h答疑课） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -250.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "mczgfewt5",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_ea0778767",
+      "date": "2025-11-29",
+      "payee": "nan",
+      "reason": "付：团队定期性福利888.88元 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -888.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_15b0bbf8f",
+      "date": "2025-11-29",
+      "payee": "nan",
+      "reason": "付：蒋克宇（周末加班整理资料） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -288.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_759db56df",
+      "date": "2025-11-29",
+      "payee": "nan",
+      "reason": "付：卢佳铭（绩点类合同第二次定稿） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -200.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_b3025ca67",
+      "date": "2025-11-29",
+      "payee": "nan",
+      "reason": "付：蔡冰心（刘勇为授课的思想道德与法治课程的攻略） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -188.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_9406b183a",
+      "date": "2025-11-29",
+      "payee": "nan",
+      "reason": "付：王梦洁（微积分一的答疑课 张瑾萱 熊泰迪 各0.5小时） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -500.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "412qoxt09",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_0a322d025",
+      "date": "2025-11-30",
+      "payee": "nan",
+      "reason": "付：童子璇（土木项目一 答疑课 王一君 0.5小时） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -250.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "tz6wctp30",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_aed3536c8",
+      "date": "2025-11-30",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（流体力学-答疑课-0.5小时薪酬-张远哲） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -250.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_c66e0b91b",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "付：卢佳铭（加班费用-改合同） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -188.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_4963aa88e",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "付：红包（企业微信失误） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -188.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_c076ed943",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "付：红包（企业微信失误） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -188.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_2c3bcdbab",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "付：红包（企业微信失误） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -188.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_60db630a2",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "付：卢佳铭（填进9份合同） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -180.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_8d19d95cb",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "收：黄艺玲（应数D24级一学年授课费用） | 课程: nan | 挂靠: nan | 备注: 方慧娟",
+      "amount": 33500.0,
+      "category": "课程收入",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_6c07a7693",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "收：李谦宇（应数D24级一学年授课费用） | 课程: nan | 挂靠: nan | 备注: 李俊中",
+      "amount": 33500.0,
+      "category": "课程收入",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_b37833db3",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "收：熊泰迪（应数D25级一学年授课费用） | 课程: nan | 挂靠: nan | 备注: 熊泰迪",
+      "amount": 29100.0,
+      "category": "课程收入",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_26a201d82",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "付：团队定期性福利888.88元 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -888.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_58137ef56",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "付：蒋克宇（离散数学1小时大班课） | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_3e7251249",
+      "date": "2025-12-01",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（邓迪课程体系介绍0.5小时大班课 | 课程: nan | 挂靠: nan | 备注: 已走公帐",
+      "amount": -600.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_a25654e6b",
+      "date": "2025-12-02",
+      "payee": "nan",
+      "reason": "收：罗虞涵（应数D25级一学年授课费用） | 课程: nan | 挂靠: nan | 备注: 罗强",
+      "amount": 29100.0,
+      "category": "课程收入",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_b085c5f72",
+      "date": "2025-12-02",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（文尚杰答疑课0.5h 计算机辅助设计，发生在11月27日） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -258.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_61c4ed1c8",
+      "date": "2025-12-02",
+      "payee": "nan",
+      "reason": "收：冯骁霄（应数D24级一学年授课费用） | 课程: nan | 挂靠: nan | 备注: 冯坤坪",
+      "amount": 33500.0,
+      "category": "课程收入",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_ce40fc0ef",
+      "date": "2025-12-02",
+      "payee": "nan",
+      "reason": "收：张瑾萱（交设D25级一学年授课费用） | 课程: nan | 挂靠: nan | 备注: 姚佳梅",
+      "amount": 31800.0,
+      "category": "课程收入",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_486c590ae",
+      "date": "2025-12-02",
+      "payee": "nan",
+      "reason": "付：童子璇（土木项目答疑课 熊泰迪调整时间的补偿） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -188.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_f99da9c1a",
+      "date": "2025-12-02",
+      "payee": "nan",
+      "reason": "付：周淇（15%佣金 熊泰迪1560 王一君780 罗虞涵1560 张瑾萱1875 李谦宇2205 黄艺玲2205） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -10185.0,
+      "category": "运营支出",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "5fxq28zv5",
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_06c679178",
+      "date": "2025-12-03",
+      "payee": "nan",
+      "reason": "付：陈佳浩（应数SEM7 图论2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -600.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_2b03ed79b",
+      "date": "2025-12-04",
+      "payee": "nan",
+      "reason": "付：王梦洁（计算机项目课答疑课 李崇赫0.5h，发生在12月3日） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -258.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "v1grzsj9t",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_657839042",
+      "date": "2025-12-05",
+      "payee": "nan",
+      "reason": "付：白杨（应数SEM5 微分方程2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -2000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_76e36501c",
+      "date": "2025-12-05",
+      "payee": "nan",
+      "reason": "付：卢佳铭(SEM1 思政军理 2h（ | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_75609f283",
+      "date": "2025-12-06",
+      "payee": "nan",
+      "reason": "付：蒋克宇（应数SEM3 数学2A 2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -2000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_60313ae72",
+      "date": "2025-12-06",
+      "payee": "nan",
+      "reason": "付：童子璇（项目一数学 张瑾萱 0.5h答疑课） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -258.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "mczgfewt5",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_def16cff5",
+      "date": "2025-12-06",
+      "payee": "nan",
+      "reason": "付：陈佳浩（应数SEM7 PDE数值解2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -600.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_95d0b407a",
+      "date": "2025-12-07",
+      "payee": "nan",
+      "reason": "付：陈佳浩（应数SEM7 图论2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -600.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_9e6b2e415",
+      "date": "2025-12-07",
+      "payee": "nan",
+      "reason": "付：卢佳铭-新合同*1（绩点服务类-团队内部成员） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -400.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_e11544775",
+      "date": "2025-12-08",
+      "payee": "nan",
+      "reason": "收：张远哲（机械D24级一学年授课费用） | 课程: nan | 挂靠: nan | 备注: 何慧",
+      "amount": 42100.0,
+      "category": "课程收入",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_b747350e4",
+      "date": "2025-12-08",
+      "payee": "nan",
+      "reason": "付：王梦洁（微积分一的答疑课 罗虞涵 王一君 各0.5小时） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -500.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "tz6wctp30",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_e1a62bf73",
+      "date": "2025-12-08",
+      "payee": "nan",
+      "reason": "付：王梦洁（项目机械大班课0.5小时） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -650.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_1b4e14701",
+      "date": "2025-12-08",
+      "payee": "nan",
+      "reason": "收：文尚杰（交设D24级一学年授课费用） | 课程: nan | 挂靠: nan | 备注: 郭艺辉",
+      "amount": 24600.0,
+      "category": "课程收入",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_a1760abb5",
+      "date": "2025-12-10",
+      "payee": "nan",
+      "reason": "付：卢佳铭-新合同*1（保密协议-团队内部成员） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -400.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_b48727bf0",
+      "date": "2025-12-10",
+      "payee": "nan",
+      "reason": "付：卢佳铭（填进2份合同-文尚杰 王一君） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -40.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "tz6wctp30",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_21d87340e",
+      "date": "2025-12-10",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（文尚杰答疑课1h 热力学CAD） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -500.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_5f48cd82d",
+      "date": "2025-12-10",
+      "payee": "nan",
+      "reason": "付：王露艺（11月网站推广780元，15.5h非职责时间1550元） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -2330.0,
+      "category": "运营支出",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_c4c10356a",
+      "date": "2025-12-10",
+      "payee": "nan",
+      "reason": "付：陈佳浩（应数SEM7 PDE数值解2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -600.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_2f332a528",
+      "date": "2025-12-11",
+      "payee": "nan",
+      "reason": "付：熊祝成（应数SEM3 编程概论 20分钟） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -400.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_f2ed1bbff",
+      "date": "2025-12-11",
+      "payee": "nan",
+      "reason": "付：贤内助（一年的财税代理记账费用） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -2600.0,
+      "category": "运营支出",
+      "account": "nan",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "中行企业网银"
+    },
+    {
+      "id": "exp_941de2064",
+      "date": "2025-12-12",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（机械交设SEM3热力学 大班课 1h，发生在12月11日） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1200.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_20643aabc",
+      "date": "2025-12-12",
+      "payee": "nan",
+      "reason": "付：卢佳铭（公选-国际化创新人才培养） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -50.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_a46df3b47",
+      "date": "2025-12-13",
+      "payee": "nan",
+      "reason": "付：陈佳浩（应数SEM7 PDE数值解2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -600.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_7f276f4ba",
+      "date": "2025-12-13",
+      "payee": "nan",
+      "reason": "付：白杨（应数SEM5 微分方程2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -2000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_069494153",
+      "date": "2025-12-14",
+      "payee": "nan",
+      "reason": "付：张欣宇（应数SEM5 分析学1.75小时） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1750.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_5258c7688",
+      "date": "2025-12-14",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（CAD和热力学答疑课-张远哲 0.5h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -258.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_2537deda6",
+      "date": "2025-12-14",
+      "payee": "nan",
+      "reason": "付：陈佳浩（应数SEM7 图论PDE数值解内容总结 2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -600.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_4903850e8",
+      "date": "2025-12-14",
+      "payee": "nan",
+      "reason": "付：腾讯会议专业版-月卡 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -65.0,
+      "category": "运营支出",
+      "account": "闲鱼",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_040f6677d",
+      "date": "2025-12-14",
+      "payee": "nan",
+      "reason": "付：坚果云-月卡 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -30.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_f9c72d972",
+      "date": "2025-12-16",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（微控-大班课-1小时底薪薪酬） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1200.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_bc9b9f51a",
+      "date": "2025-12-17",
+      "payee": "nan",
+      "reason": "付：王梦洁（项目机械的答疑课 罗虞涵 王一君 各0.5小时） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -500.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "tz6wctp30",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_9dbe6458a",
+      "date": "2025-12-18",
+      "payee": "nan",
+      "reason": "付：陈佳浩（应数SEM7 PDE数值解2h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -600.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_c82bc3a65",
+      "date": "2025-12-19",
+      "payee": "nan",
+      "reason": "付：何泳杭（应数SEM5 矢量微积分1h。实际发生在2025年12月18日） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_1ddd7af0b",
+      "date": "2025-12-19",
+      "payee": "nan",
+      "reason": "付：蒋克宇（应数SEM3 数学2A 1h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_0e4668bdb",
+      "date": "2025-12-19",
+      "payee": "nan",
+      "reason": "付：蒋克宇（应数SEM3 编程概论40min） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -666.66,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_edbf0d1ff",
+      "date": "2025-12-19",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（CAD和热力学答疑课-张远哲 0.5h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -258.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_d7787fc8e",
+      "date": "2025-12-20",
+      "payee": "nan",
+      "reason": "付：王梦洁（机械项目课答疑课 王一君0.5 罗虞涵0.5 熊泰迪1.0课时） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "tz6wctp30",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_406df4143",
+      "date": "2025-12-20",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（文尚杰答疑课1h 热力学CAD） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -500.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_581e57a91",
+      "date": "2025-12-20",
+      "payee": "nan",
+      "reason": "付：傅嘉乐（答疑课CAD-张远哲 0.5h） | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -258.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_1aef31c9d",
+      "date": "2025-12-20",
+      "payee": "nan",
+      "reason": "付：团队定期性福利1888.88元 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -1888.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_2aaeb70a9",
+      "date": "2025-12-20",
+      "payee": "nan",
+      "reason": "付：童子璇 项目（一）土木工程 张瑾萱 0.5h 答疑课 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -258.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "6e78kir7w",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_2478e571c",
+      "date": "2025-12-24",
+      "payee": "nan",
+      "reason": "付：童子璇 项目（一）土木工程 张瑾萱 0.5h 答疑课 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -258.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "6e78kir7w",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_9d0da51e4",
+      "date": "2025-12-26",
+      "payee": "nan",
+      "reason": "付：傅嘉乐 项目（一）机械工程 罗虞涵 0.5h 答疑课 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -258.88,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "5fxq28zv5",
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_a5c21bb2e",
+      "date": "2025-12-28",
+      "payee": "nan",
+      "reason": "付：杜焓 创意办 2000元预算 | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -2000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_64537b7a7",
+      "date": "2025-12-28",
+      "payee": "nan",
+      "reason": "付：熊祝成 财务系统 800元充值ai | 课程: nan | 挂靠: nan | 备注: nan",
+      "amount": -800.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_240651298",
+      "date": "2025-12-28",
+      "payee": "nan",
+      "reason": "付：张欣宇 应数SEM5 分析学 1h 大班课 | 课程: nan | 挂靠: nan | 备注: 暂未给",
+      "amount": -1000.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_aa30b0bd1",
+      "date": "2025-12-29",
+      "payee": "nan",
+      "reason": "付：何泳杭 应数SEM7 流体及等离子体数学（一） 5h 大班课 | 课程: nan | 挂靠: nan | 备注: 暂未给",
+      "amount": -1500.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": null,
+      "handler": "熊祝成"
+    },
+    {
+      "id": "exp_086ca7ba9",
+      "date": "2025-12-29",
+      "payee": "nan",
+      "reason": "付：王梦洁 SEM1 科学工程与微积分 0.5h 大班课 | 课程: nan | 挂靠: nan | 备注: 暂未给",
+      "amount": -650.0,
+      "category": "运营支出",
+      "account": "微信",
+      "status": "completed",
+      "projectTag": "nan",
+      "linkStudentId": "b39666ioz",
+      "handler": "熊祝成"
+    }
+  ],
+  "timestamp": "2026-01-01T08:18:20.584653",
+  "summary": {
+    "courses": 15,
+    "expenses": 121,
+    "matched_students": 15
+  }
+}
